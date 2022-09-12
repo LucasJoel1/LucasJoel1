@@ -2,7 +2,7 @@
 
 ## About Me
 ```js
-const lucas = {
+var lucas = {
     pronouns: "He" | "Him",
     variablesDeclared: ["JavaScript", "Python", "Nodejs", "Express", "HTML", "CSS", "SQL", "Bootstrap", "git", "bash", "linux", "vscode"],
     promisePending: ["Java", "C++", "Docker", "WPILib", "caddy"],
