@@ -5,8 +5,8 @@
 var lucas = {
     pronouns: "He" | "Him",
     variablesDeclared: ["JavaScript", "Python", "Nodejs", "Express", "HTML", "CSS", "SQL", "Bootstrap", "git", "bash", "linux", "vscode"],
-    promisePending: ["Java", "C++", "Docker", "WPILib", "caddy"],
-    toBeDeclared: ["React", "Vue", "Tailwind", "Kubernettes", "Vim", "Regex"],
+    promisePending: ["Java", "C++", "Docker", "WPILib", "caddy", "React", "ASP.NET"],
+    toBeDeclared: ["Vue", "Tailwind", "Kubernettes", "Vim", "Regex"],
 }
 ```
 
