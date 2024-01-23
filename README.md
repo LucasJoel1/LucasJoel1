@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I'm Lucas. <br>
-I am a developer based in Canada and am a member of the FIRST Robotics team, 2056. <br>
+I am a developer based in Canada.<br>
 
 
 ## 🌐 Socials:
